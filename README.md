@@ -39,7 +39,7 @@ When doing so, the bot will print a notification about the manual stop being act
 And here's the catch! When it does, it takes the messages object and summarizes it! So if you were away for like 1 hour, just manually stop it and you'll get a
 nice and tidy bullet list with your summary.
 
-## This sounds perfect, way to perfect even
+## This sounds perfect, way too perfect even...
 Well, far from it! There are many pending fixes. Some of those that i know of/can think of are:
   - Iterate over a list of contacts, each with their own history. I thought of a dictionary approach, using the contact name as a key to get a messages object for each, but its kinda tricky when you think about the prompts and how to be flexible. You wouldn't want to mix up how you talk to your partner, your best friend and your family!
   - Right now the prompt includes a statement for "you can't see images nor sticker but here's what you'd see if you get those". That works just fine, but it would be nice if it could. Not a priority though.
