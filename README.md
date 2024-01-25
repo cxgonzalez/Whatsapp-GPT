@@ -1,6 +1,6 @@
 # Whatsapp-GPT
 
-A Selenium powered Whatsapp automation, which checks periodically a specific contact, goes into the chat if there are unread messages, then answer in your place.
+A Selenium powered Whatsapp automation, which checks periodically a specific contact, goes into the chat if there are unread messages, then answers in your place.
 How good it is at pretending to be you, depends entirely on the prompt of course.
 
 ## ... but Why?
